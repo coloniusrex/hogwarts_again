@@ -207,12 +207,59 @@
           1,
           null,
           1,
+          1,
           null
         ]
       },
       "/Users/colinalexander/Turing/2module/challenges/hogwarts_again/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/colinalexander/Turing/2module/challenges/hogwarts_again/spec/features/professor/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/colinalexander/Turing/2module/challenges/hogwarts_again/spec/features/professor_student/index_spec.rb": {
+        "lines": [
           null
         ]
       },
@@ -319,6 +366,11 @@
           1,
           1,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -330,6 +382,6 @@
         ]
       }
     },
-    "timestamp": 1585325540
+    "timestamp": 1585327900
   }
 }
