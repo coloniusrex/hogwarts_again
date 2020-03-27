@@ -1,0 +1,7 @@
+<p>Professors Index</p>
+
+<% @professors.each do |professor| %>
+<p><%= professor.name %></p>
+<p><%= professor.age %></p>
+<p>Specialty: <%= professor.specialty %></p>
+<% end %>
